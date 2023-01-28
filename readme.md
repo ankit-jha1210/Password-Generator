@@ -73,10 +73,6 @@ Please note that the generated passwords are random and may not be suitable for 
 
 
 
-## Authors
-
-- [@Ankit](https://www.github.com/J-Ankit2020)
-
 
 ## License
 
