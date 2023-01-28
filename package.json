@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ankit Jha",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.13",
